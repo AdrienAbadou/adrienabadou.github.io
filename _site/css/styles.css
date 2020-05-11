@@ -2465,6 +2465,7 @@ fieldset:disabled a.btn {
   background-color: #f24516;
   border-color: #ee3e0d;
 }
+
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
   background-color: #f24516;
@@ -10115,4 +10116,11 @@ header.masthead h1 {
 
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
+}
+
+
+/*Padding for the Portfolio section*/
+
+.padding-top-portfolio {
+  padding-top: 8rem;
 }
